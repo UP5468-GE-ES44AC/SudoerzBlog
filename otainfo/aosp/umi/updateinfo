@@ -6,35 +6,35 @@
   "size": "1328356725 ", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
-  "whatsNew": "# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+  "whatsNew": "# H1 \n
+## H2 \n
+### H3 \n
+#### H4 \n
+##### H5 \n
+###### H6 \n
 
-Alternatively, for H1 and H2, an underline-ish style:
+Alternatively, for H1 and H2, an underline-ish style: \n
 
-Alt-H1
-======
+Alt-H1 \n
+====== \n
 
-Alt-H2
-------
+Alt-H2 \n
+------ \n
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Emphasis, aka italics, with *asterisks* or _underscores_. \n
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Strong emphasis, aka bold, with **asterisks** or __underscores__. \n
 
-Combined emphasis with **asterisks and _underscores_**.
+Combined emphasis with **asterisks and _underscores_**. \n
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Strikethrough uses two tildes. ~~Scratch this.~~ \n
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+> Blockquotes are very handy in email to emulate reply text. \n
+> This line is part of the same quote. \n
 
-Quote break.
+Quote break. \n
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.  \n
 ",
   "donationbitmap": "http://t.cn/A6ZINXR6",
   "url": "https://sourceforge.net/projects/pixelgsiportforwayne/files/Pack_Rel/aosp/wayne/aosp_wayne_gms-userdebug-10.0-QQ3A.200805.001-20201004.153652.zip",
