@@ -6,36 +6,46 @@
   "size": "1328356725 ", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
-  "whatsNew": "# This is an h1 tag  <br />
+  "whatsNew": "# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-## This is an h2 tag  <br />
+Alternatively, for H1 and H2, an underline-ish style:
 
-###### This is an h6 tag  <br />
+Alt-H1
+======
 
-*This text will be italic*  <br />
+Alt-H2
+------
 
-_This will also be italic_  <br />
+Emphasis, aka italics, with *asterisks* or _underscores_.
 
-**This text will be bold**  <br />
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-__This will also be bold__  <br />
+Combined emphasis with **asterisks and _underscores_**.
 
+Strikethrough uses two tildes. ~~Scratch this.~~
 
-_You **can** combine them_  <br />
+Here's our logo (hover to see the title text):
 
-* Item 1 <br />
-* Item 2 <br />
-* Item 3 <br />
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-1. Item 1 <br />
-2. Item 2 <br />
-3. Item 3 <br />
+Reference-style: 
+![alt text][logo]
 
-As Kanye West said:  <br />
-> We're living the future so  <br />
-> the present is our past.  <br />
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-I think you should use an `<addr>` element here instead.",
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+Quote break.
+
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+",
   "donationbitmap": "http://t.cn/A6ZINXR6",
   "url": "https://sourceforge.net/projects/pixelgsiportforwayne/files/Pack_Rel/aosp/wayne/aosp_wayne_gms-userdebug-10.0-QQ3A.200805.001-20201004.153652.zip",
   "version": "11",
