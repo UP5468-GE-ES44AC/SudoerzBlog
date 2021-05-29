@@ -29,6 +29,8 @@
   "donationbitmap": "http://t.cn/A6ZINXR6",
   "url": "https://sourceforge.net/projects/pixelgsiportforwayne/files/Pack_Rel/aosp/umi/aosp_umi-userdebug-11.0-RQ2A.210305.006-20210503.170841.zip",
   "version": "11",
+  "incremental": "75d6863ecf",
+  "extdownlink": "",
   "advisorycontent": "###<font color=\"ffff4500\">请注意，本次更新为测试信息推送，请不要去下载，刷入本信息中提供的任何物料！！！！</font>",
   "isdownloadfile": "1",
   "postlink":"https://www.coolapk.com/feed/26353175?shareKey=MDFlYjc4ZjMwYTcyNjBhNGZkNjY~&shareUid=838917&shareFrom=com.coolapk.market_11.1.5.1",
