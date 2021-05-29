@@ -1,35 +1,35 @@
 {
-  "datetime": 1621393838,
-  "filename": "aosp_umi-userdebug-11.0-RQ2A.210305.006-20210519.111041.zip",
-  "filehash": "479e0d10e6b475914afd36cf40789f86",
-  "id": "b86bc699d559aaec716174dd9fa6046cced7248a",
+  "datetime": 1622210837,
+  "filename": "aosp_umi-userdebug-11.0-RQ2A.210305.006-20210503.170841.zip",
+  "filehash": "30cdbfd7b619e31255283ff00f405797",
+  "id": "b565512c654c18774759b2e557dbd7b1a11e3214",
   "size": "2085486574 ", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
   "whatsNew": "
-### 本次更新内容： \n
+### 本次更新内容（测试内容推送）： \n
 
 #### 上层 \n
 
-* ~~加入GrayScaleTile~~  \n
-* 对于GrayScaleTile带来的异常耗电问题，本版本已将其砍掉以解决改问题  \n
-* 加入OTA推送app  \n
-* 解决Google相机摄像头无画面（黑屏）的问题  \n
+*  移除电源菜单的黑色背景 \n
+*  移除SystemUI快速设置顶部的黑色背景  \n
 
 #### 设备 \n
 
-* 新添Selinux策略，本次更新将会让机器以Enforcing模式运行  \n
-* 引入PixelPowerHal  \n
-* 已将双击唤醒接管从XiaomiParts应用转移到PowerHal  \n
+* 优化Sepolicy  \n
+* 将系统色彩空间换为DCI_P3  \n
+* 将内核blobs和vendor blobs以及部分配置文件更新到12.5.3.0  \n
+* 修复指纹解锁闪屏  \n 
+* 将Display Composer切回MIUI Prebuilt  \n
 
-关于SeLinux： \n
+注意： \n
 
-> SELinux （Security Enhanced Linux）是由美国国家安全局（NSA）开发的。它已被植入到了Linux系统的内核当中，主要作用是通过安全策略将系统应用软件及用户程序对系统文件目录的访问限制。以MAC(Mandatory Access Control)的委任试存储方式作为安全处理。
+> 本更新信息为测试信息，不要下载本更新的任何更新包！！！
 ",
   "donationbitmap": "http://t.cn/A6ZINXR6",
-  "url": "https://laramiedep-my.sharepoint.com/personal/laramiedep_laramiedep_onmicrosoft_com/Documents/Sudoerz%27s%20Mod/aosp_umi-userdebug-11.0-RQ2A.210305.006-20210519.111041.zip",
+  "url": "https://sourceforge.net/projects/pixelgsiportforwayne/files/Pack_Rel/aosp/umi/aosp_umi-userdebug-11.0-RQ2A.210305.006-20210503.170841.zip",
   "version": "11",
-  "advisorycontent": "<font color=\"ffff4500\">请注意，如果您在更新后遇到奇怪的问题，恢复出厂设置是一个解决方案。</font>",
+  "advisorycontent": "###<font color=\"ffff4500\">请注意，本次更新为测试信息推送，请不要去下载，刷入本信息中提供的任何物料！！！！</font>",
   "isdownloadfile": "1",
   "postlink":"https://www.coolapk.com/feed/26353175?shareKey=MDFlYjc4ZjMwYTcyNjBhNGZkNjY~&shareUid=838917&shareFrom=com.coolapk.market_11.1.5.1",
   "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/umi/HistoryChanges",
