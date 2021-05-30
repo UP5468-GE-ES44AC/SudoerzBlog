@@ -1,5 +1,5 @@
 {
-  "datetime": 1622210837,
+  "datetime": 1622910837,
   "filename": "aosp_umi-userdebug-11.0-RQ2A.210305.006-20210503.170841.zip",
   "filehash": "30cdbfd7b619e31255283ff00f405797",
   "id": "b565512c654c18774759b2e557dbd7b1a11e3214",
@@ -29,7 +29,7 @@
   "donationbitmap": "http://t.cn/A6ZINXR6",
   "url": "https://sourceforge.net/projects/pixelgsiportforwayne/files/Pack_Rel/aosp/umi/aosp_umi-userdebug-11.0-RQ2A.210305.006-20210503.170841.zip",
   "version": "11",
-  "incremental": "75d6863ecf",
+  "incremental": "c8267ecd82",
   "extdownlink": "https://baidu.com",
   "advisorycontent": "###<font color=\"ffff4500\">请注意，本次更新为测试信息推送，请不要去下载，刷入本信息中提供的任何物料！！！！</font>",
   "isdownloadfile": "1",
