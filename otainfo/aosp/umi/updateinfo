@@ -20,6 +20,7 @@
 * 将系统色彩空间换为DCI_P3  \n
 * 将内核blobs和vendor blobs以及部分配置文件更新到12.5.3.0  \n
 * 修复指纹解锁闪屏  \n 
+* 已对HDR进行支持  \n
 * 将Display Composer切回MIUI Prebuilt  \n
 
 注意： \n
@@ -33,7 +34,9 @@
   "incremental": "4a350755e1",
   "extdownlink": "https://laramiedep-my.sharepoint.com/:f:/g/personal/laramiedep_laramiedep_onmicrosoft_com/EkiU0k9WoghGv7oXy4Eau7wB-yKfNlhV6ymxbkV2II60Uw",
   "advisorycontent": "<font color=\"ffff4500\">### 请注意，本次更新已将底包版本进行了更新，请在刷入前务必更新好底包然后再刷rom！！</font>  \n
-  同时，下载服务器还未准备好，因此本次更新依旧是前往OneDrive进行下载。[ROM下载戳这里](https://laramiedep-my.sharepoint.com/:u:/g/personal/laramiedep_laramiedep_onmicrosoft_com/EaUyklyz1F1EvlLRf71Cb8kBnWs34qu8B-tufBnoUp-nuA?e=6A0Dso)
+  [本版本下载地址1](https://laramiedep-my.sharepoint.com/:u:/g/personal/laramiedep_laramiedep_onmicrosoft_com/EaUyklyz1F1EvlLRf71Cb8kBnWs34qu8B-tufBnoUp-nuA?e=6A0Dso)  \n
+  [本版本下载地址2](https://dl.779.moe/Sudoerz/aosp_umi-userdebug-11.0-RQ2A.210305.006-20210530.205121.zip)  \n
+  文件MD5：dc9391ae4b893076dc85293fe52d953c
   ",
   "isdownloadfile": "0",
   "postlink":"https://www.coolapk.com/feed/26353175?shareKey=MDFlYjc4ZjMwYTcyNjBhNGZkNjY~&shareUid=838917&shareFrom=com.coolapk.market_11.1.5.1",
