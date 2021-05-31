@@ -24,13 +24,13 @@
 
 注意： \n
 
-> 本次更新涉及到了底包的更换，在刷入本更新前务必将底包先行刷入，然后再将本rom刷入！！！否则砖了就砖了  \n
+> <font color=\"ffff4500\">### 本次更新涉及到了底包的更换，在刷入本更新前务必将底包先行刷入，然后再将本rom刷入！！！否则砖了就砖了 </font>  \n
 > [v12.5.3.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable/V12.5.3.0.RJBCNXM/)
 ",
   "donationbitmap": "http://t.cn/A6ZINXR6",
   "url": "https://sourceforge.net/projects/pixelgsiportforwayne/files/Pack_Rel/aosp/umi/aosp_umi-userdebug-11.0-RQ2A.210305.006-20210503.170841.zip",
   "version": "11",
-  "incremental": "c8267ecd82",
+  "incremental": "4a350755e1",
   "extdownlink": "https://laramiedep-my.sharepoint.com/:f:/g/personal/laramiedep_laramiedep_onmicrosoft_com/EkiU0k9WoghGv7oXy4Eau7wB-yKfNlhV6ymxbkV2II60Uw",
   "advisorycontent": "<font color=\"ffff4500\">### 请注意，本次更新已将底包版本进行了更新，请在刷入前务必更新好底包然后再刷rom！！</font>  \n
   同时，下载服务器还未准备好，因此本次更新依旧是前往OneDrive进行下载。[ROM下载戳这里](https://laramiedep-my.sharepoint.com/:u:/g/personal/laramiedep_laramiedep_onmicrosoft_com/EaUyklyz1F1EvlLRf71Cb8kBnWs34qu8B-tufBnoUp-nuA?e=6A0Dso)
