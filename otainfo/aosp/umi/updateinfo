@@ -1,9 +1,9 @@
 {
-  "datetime": 1624978860,
-  "filename": "aosp_umi-userdebug-11.0-RQ3A.210605.005-20210702.225412.zip",
-  "filehash": "ff3b3c722ddc9565efce63f962a12d3b",
-  "id": "be887afdee237368e009567d2dad8978425ab7d2",
-  "size": "2092771615 ", 
+  "datetime": 1632103998,
+  "filename": "aosp_umi-userdebug-11.0-RQ3A.210605.005-20210920.101320.zip",
+  "filehash": "3ea4fc75433f4fcc393e2a12b5d45d8a",
+  "id": "f056b0ec4f66958aceff6d2d464c69144a4fe4fd",
+  "size": "2161979179 ", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
   "whatsNew": "
@@ -11,20 +11,35 @@
 
 #### 上层 \n
 
-* <font color=\"ff00cc00\">6月安全补丁</font> \n
-* 新增 口袋模式 \n
-* 新增 灭屏屏下指纹 \n
-* 新增 双击锁屏、状态栏休眠 \n
-* 新增 截图结果新增删除按钮 \n
-* 新增 状态栏歌词（各大音乐app可能需要将机器型号伪装为魅族机器） \n
-* 锁屏充电信息不会在触发Mi Turbo Charge时显示错误的电流值 \n
+*  加入状态栏歌词开关 \n
+*  人脸解锁现在有选项开启锁屏上滑时才检测 \n
+*  已将系统默认字体更换为：简中：苹方；繁中：苹方；英文：Google Sans Text；等宽：San Francisco Mono \n
+*  Toast样式与动画更改 \n
+*  将小横条长度设置弃用，改为隐藏/显示小横条 \n
+*  修复在某些ScrollView中触发的崩溃 \n
+*  添加拨出电话接通时震动一下的功能 \n
+*  <font color=\"ffff3300\">历史遗留：修复硬件编解码器故障</font> \n
+
+#### 设备 \n
+
+* 优化Sepolicy  \n
+* 将内核blobs和vendor blobs以及部分配置文件更新到12.5.8.0  \n
+* 对Powerhint进行优化调整 \n
+* 弃用qti thermal hal，改用pixel thermal hal \n
+* 加入边缘防误触设置（设置/系统/手势/边缘防误触） \n
+* 加入拿起手机即显示功能 \n
+
+<font color=\"ffff3300\">请注意：本次更新换新了MIUI底包：v12.5.8.0.请在更新时将其刷入，否则后果自负! </font> \n
+<font color=\"ffff3300\">请注意：本次更新需要您格式化/data，请提前做好备份！！ </font> \n
+
+> [v12.5.8.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable/V12.5.8.0.RJBCNXM/) \n
 ",
   "donationbitmap": "http://t.cn/A6ZINXR6",
-  "url": "https://sudoerz.top/aosp_umi-userdebug-11.0-RQ3A.210605.005-20210702.225412.zip",
+  "url": "https://sudoerz.top/aosp_umi-userdebug-11.0-RQ3A.210605.005-20210920.101320.zip",
   "version": "11",
-  "incremental": "c8267ecd82",
+  "incremental": "e2b330f968",
   "extdownlink": "",
-  "advisorycontent": "如无法从本更新器接受更新，请先检查`/data/system_updates/`文件夹是否存在，且权限为`0770`，所有者为`system`，用户组为`cache`。如经过此步骤后还是无法下载，请使用任意终端模拟器将`SELinux`暂时关闭，命令：`setenforce 0` （该命令需要使用`su`）",
+  "advisorycontent": "如无法从本更新器下载更新，请先检查`/data/system_updates/`文件夹是否存在，且权限为`0770`，所有者为`system`，用户组为`cache`。如经过此步骤后还是无法下载，请使用任意终端模拟器将`SELinux`暂时关闭，命令：`setenforce 0` （该命令需要使用`su`）",
   "isdownloadfile": "1",
   "postlink":"",
   "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/umi/HistoryChanges",
