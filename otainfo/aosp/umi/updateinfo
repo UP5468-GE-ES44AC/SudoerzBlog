@@ -28,8 +28,9 @@
 * 弃用qti thermal hal，改用pixel thermal hal \n
 * 加入边缘防误触设置（设置/系统/手势/边缘防误触） \n
 * 加入拿起手机即显示功能 \n
-
+ \n
 <font color=\"ffff3300\">请注意：本次更新换新了MIUI底包：v12.5.8.0.请在更新时将其刷入，否则后果自负! </font> \n
+ \n
 <font color=\"ffff3300\">请注意：本次更新需要您格式化/data，请提前做好备份！！ </font> \n
 
 > [v12.5.8.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable/V12.5.8.0.RJBCNXM/) \n
