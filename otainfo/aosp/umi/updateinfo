@@ -44,7 +44,7 @@
   "isdownloadfile": "1",
   "postlink":"",
   "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/umi/HistoryChanges",
-  "isTestFlight": true,
+  "isTestFlight": false,
   "whitelisted_devices": {
         "869743058364667": {},
 		"869743058364668": {}
