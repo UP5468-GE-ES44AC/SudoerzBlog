@@ -1,9 +1,9 @@
 {
   "datetime": 1670062560,
-  "filename": "aosp_umi-userdebug-11.0-RQ3A.210605.005-20210920.101320.zip",
-  "filehash": "3ea4fc75433f4fcc393e2a12b5d45d8a",
-  "id": "f056b0ec4f66958aceff6d2d464c69144a4fe4fd",
-  "size": "2161979179 ", 
+  "filename": "SudoerzMod_umi_v15.5-Release-SQ3A.220705.003-20221203101536.zip",
+  "filehash": "08fce6ceb6254e17463f9c82fad8948e",
+  "id": "84066c35069a07d5b97aae279caad6b14a83e1ca",
+  "size": "2585336132 ", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
   "whatsNew": "
@@ -36,7 +36,7 @@
 > [v12.5.8.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable/V12.5.8.0.RJBCNXM/) \n
 ",
   "donationbitmap": "http://t.cn/A6ZINXR6",
-  "url": "https://sudoerz.top/aosp_umi-userdebug-11.0-RQ3A.210605.005-20210920.101320.zip",
+  "url": "http://127.0.0.1:8080/SudoerzMod_umi_v15.5-Release-SQ3A.220705.003-20221203101536.zip",
   "version": "12",
   "incremental": "1669544502",
   "extdownlink": "",
