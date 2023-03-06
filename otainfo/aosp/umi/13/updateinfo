@@ -35,18 +35,19 @@
 
 > [v12.5.8.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable/V12.5.8.0.RJBCNXM/) \n
 ",
-  "donationbitmap": "http://t.cn/A6ZINXR6",
+  "donationbitmap": "",
   "url": "http://127.0.0.1:8080/SudoerzMod_umi_v15.5-Release-SQ3A.220705.003-20221203101536.zip",
-  "version": "12",
+  "version": "13",
   "incremental": "1672932012",
   "extdownlink": "",
   "advisorycontent": "如无法从本更新器下载更新，请先检查`/data/system_updates/`文件夹是否存在，且权限为`0770`，所有者为`system`，用户组为`cache`。如经过此步骤后还是无法下载，请使用任意终端模拟器将`SELinux`暂时关闭，命令：`setenforce 0` （该命令需要使用`su`）",
   "isdownloadfile": "1",
   "postlink":"",
-  "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/umi/HistoryChanges",
+  "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/umi/13/HistoryChanges",
   "isTestFlight": false,
   "whitelisted_devices": {
-        "869743058364667": {},
+    "869743058364667": {},
 		"869743058364668": {}
   }
+##donationbitmap:http://t.cn/A6ZINXR6
 }
