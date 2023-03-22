@@ -1,9 +1,9 @@
 {
-  "datetime": 1678366324,
-  "filename": "SudoerzMod_umi_v15.5-Release-SQ3A.220705.003-20221203101536.zip",
-  "filehash": "08fce6ceb6254e17463f9c82fad8948e",
-  "id": "84066c35069a07d5b97aae279caad6b14a83e1ca",
-  "size": "2585336132 ", 
+  "datetime": 1679330415,
+  "filename": "SudoerzMod_umi_v16.1-Release-TQ1A.230205.002-20230320165047.zip",
+  "filehash": "d69e9171cacbe4bc6d67e39a2913bb35",
+  "id": "d1d10c4774597c554fb5529771db06d37f8225c4",
+  "size": "2523206368 ", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
   "whatsNew": "
@@ -11,42 +11,29 @@
 
 #### 上层 \n
 
-*  加入状态栏歌词开关 \n
-*  人脸解锁现在有选项开启锁屏上滑时才检测 \n
-*  已将系统默认字体更换为：简中：苹方；繁中：苹方；英文：Google Sans Text；等宽：San Francisco Mono \n
-*  Toast样式与动画更改 \n
-*  将小横条长度设置弃用，改为隐藏/显示小横条 \n
-*  修复在某些ScrollView中触发的崩溃 \n
-*  添加拨出电话接通时震动一下的功能 \n
-*  <font color=\"ffff3300\">历史遗留：修复硬件编解码器故障</font> \n
+*  加入高通的Boost framework，改善性能 \n
 
 #### 设备 \n
 
-* 优化Sepolicy  \n
-* 将内核blobs和vendor blobs以及部分配置文件更新到12.5.8.0  \n
-* 对Powerhint进行优化调整 \n
-* 弃用qti thermal hal，改用pixel thermal hal \n
-* 加入边缘防误触设置（设置/系统/手势/边缘防误触） \n
-* 加入拿起手机即显示功能 \n
+* 构建类型已切换为user  \n
+* Selinux状态已切换为Enforcing  \n
+* 对设备文件进行调整 \n
+* SafetyNet/Play Integrity检测现已能通过
  \n
-<font color=\"ffff3300\">请注意：本次更新换新了MIUI底包：v12.5.8.0.请在更新时将其刷入，否则后果自负! </font> \n
- \n
-<font color=\"ffff3300\">请注意：本次更新需要您格式化/data，请提前做好备份！！ </font> \n
-
-> [v12.5.8.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable/V12.5.8.0.RJBCNXM/) \n
+> [v13.0.7.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable%20beta/V13.0.7.0.SJBCNXM/) \n
 ",
   "donationbitmap": "",
-  "url": "http://127.0.0.1:8080/SudoerzMod_umi_v15.5-Release-SQ3A.220705.003-20221203101536.zip",
-  "version": "12",
-  "incremental": "1672932012",
+  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/umi/SudoerzMod_umi_v16.1-Release-TQ1A.230205.002-20230320165047.zip",
+  "version": "13",
+  "incremental": "eng.sudoer.20230321.005047",
   "extdownlink": "",
-  "advisorycontent": "如无法从本更新器下载更新，请先检查`/data/system_updates/`文件夹是否存在，且权限为`0770`，所有者为`system`，用户组为`cache`。如经过此步骤后还是无法下载，请使用任意终端模拟器将`SELinux`暂时关闭，命令：`setenforce 0` （该命令需要使用`su`）",
+  "advisorycontent": "",
   "isdownloadfile": "1",
   "postlink":"",
   "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/umi/13/HistoryChanges",
   "isTestFlight": false,
   "whitelisted_devices": {
     "869743058364667": {},
-		"869743058364668": {}
+	"869743058364668": {}
   }
 }
