@@ -11,23 +11,23 @@
 
 #### 上层 \n
 
-*  加入高通的Boost framework，改善性能 \n
+* 加入高通的Boost framework，改善性能 \n
 
 #### 设备 \n
 
 * 构建类型已切换为user  \n
 * Selinux状态已切换为Enforcing  \n
 * 对设备文件进行调整 \n
-* SafetyNet/Play Integrity检测现已能通过
+* SafetyNet/Play Integrity检测现已能通过 \n
  \n
 > [v13.0.7.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable%20beta/V13.0.7.0.SJBCNXM/) \n
 ",
   "donationbitmap": "",
   "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/umi/SudoerzMod_umi_v16.1-Release-TQ1A.230205.002-20230320165047.zip",
   "version": "13",
-  "incremental": "eng.sudoer.20230321.005047",
+  "incremental": "eng.sudoer.20230309.210338",
   "extdownlink": "",
-  "advisorycontent": "",
+  "advisorycontent": "如果更新后无法开机，请先移除面具以及清除用户数据后再继续。",
   "isdownloadfile": "1",
   "postlink":"",
   "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/umi/13/HistoryChanges",
