@@ -1,4 +1,12 @@
 ### 前期更新履历： 
+
+#### 3/22/2023
+
+* 加入高通的Boost framework，改善性能
+* 构建类型已切换为user
+* Selinux状态已切换为Enforcing
+* 对设备文件进行调整
+* SafetyNet/Play Integrity检测现已能通过
   
 #### 3/13/2023  
 *  第一版释出  
