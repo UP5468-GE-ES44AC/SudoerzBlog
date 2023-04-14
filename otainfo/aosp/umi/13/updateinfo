@@ -1,9 +1,9 @@
 {
-  "datetime": 1680106937,
-  "filename": "SudoerzMod_umi_v17.0-Release-TQ2A.230305.008.C1-20230330072959.zip",
-  "filehash": "2af330d7b8838229c8c914a12f5d5023",
-  "id": "9dca8a8e63d0f47f64ff2b887233c935fff5f61e",
-  "size": "2590234783 ", 
+  "datetime": 1681321884,
+  "filename": "SudoerzMod_umi_v17.1-Release-TQ2A.230305.008.C1-20230412175216.zip",
+  "filehash": "50d133112f50ca8d7be82bb567459521",
+  "id": "8e4373d3217ad5f1fb90e15cff02a6fc2a167fdd",
+  "size": "2589664685 ", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
   "whatsNew": "
@@ -11,19 +11,29 @@
 
 #### 上层 \n
 
-* <font color=\"ff32cd32\">整体源码更新至3月补丁（QPR2）</font> \n
-* 修复若干问题 \n
-\n
-部分内容因为QPR2的更改已做出对应调整，日后不再更改。
+* <font color=\"ff32cd32\">修复OS激活服务的试用时间在系统日期发生变更时走时过快的问题</font> \n
+* 新增数据卡切换磁贴  \n
+* 隐私指示器已屏蔽部分系统应用  \n
+* 新增VPN 热点 \n
+* 新增隐藏手势栏 \n
+* 新增NFC磁贴 \n
+* 新增颜色调整（于 系统设置-显示-颜色 下） \n
+* DC调光服务（仅针对华星屏用户） \n
+* 尝试性修复更新器创建临时文件被SeLinux拦截的问题 \n
+* 其他若干修复 \n
 \n
 > [v13.0.7.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable%20beta/V13.0.7.0.SJBCNXM/) \n
 ",
   "donationbitmap": "",
-  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/umi/SudoerzMod_umi_v17.0-Release-TQ2A.230305.008.C1-20230330072959.zip",
+  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/umi/SudoerzMod_umi_v17.1-Release-TQ2A.230305.008.C1-20230412175216.zip",
   "version": "13",
-  "incremental": "eng.sudoer.20230321.005047",
+  "incremental": "eng.sudoer.20230330.003234",
   "extdownlink": "",
-  "advisorycontent": "请在更新前注意备份数据。",
+  "advisorycontent": "
+  本包默认不带kernel su，若需要kernel su，请到下载站内找到机型文件夹并在那里面寻找对应版本的Boot。  \n
+  \n
+  下载站请到 [这里](https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/zh-CN/Sudoerz's%20Mod/)
+  ",
   "isdownloadfile": "1",
   "postlink":"",
   "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/umi/13/HistoryChanges",
