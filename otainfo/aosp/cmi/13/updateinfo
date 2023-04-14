@@ -1,29 +1,37 @@
 {
-  "datetime": 1680386300,
-  "filename": "SudoerzMod_cmi_v17.0-Release-TQ2A.230305.008.C1-20230401215913.zip",
-  "filehash": "c49e30686186d60f19360718d5220374",
-  "id": "9ff4798872628b20f9b79da8f69f8c81c05ece1b",
-  "size": "2567656989", 
+  "datetime": 1681358744,
+  "filename": "SudoerzMod_cmi_v17.1-Release-TQ2A.230305.008.C1-20230413041534.zip",
+  "filehash": "fc47b539e88ccf0343a802944b8028b9",
+  "id": "44a686bc79709598ea98c32cf3ddd6442e42ab8f",
+  "size": "2567258102", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
   "whatsNew": "
 ### 本次更新内容： \n
 
-#### 上层 \n
-
-* <font color=\"ff32cd32\">整体源码更新至3月补丁（QPR2）</font> \n
-* 修复若干问题 \n
-\n
-部分内容因为QPR2的更改已做出对应调整，日后不再更改。
+* <font color=\"ff32cd32\">修复OS激活服务的试用时间在系统日期发生变更时走时过快的问题</font> \n
+* 新增数据卡切换磁贴  \n
+* 隐私指示器已屏蔽部分系统应用  \n
+* 新增VPN 热点 \n
+* 新增隐藏手势栏 \n
+* 新增NFC磁贴 \n
+* 新增颜色调整（于 系统设置-显示-颜色 下） \n
+* DC调光服务（仅针对Mi10的华星屏设备） \n
+* 尝试性修复更新器创建临时文件被SeLinux拦截的问题 \n
+* 其他若干修复 \n
 \n
 > [v13.0.6.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/cmi/stable/V13.0.6.0.SJACNXM/) \n
 ",
   "donationbitmap": "",
-  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/cmi/SudoerzMod_cmi_v17.0-Release-TQ2A.230305.008.C1-20230401215913.zip",
+  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/cmi/SudoerzMod_cmi_v17.1-Release-TQ2A.230305.008.C1-20230413041534.zip",
   "version": "13",
-  "incremental": "eng.sudoer.20230323.180154",
+  "incremental": "eng.sudoer.20230402.055913",
   "extdownlink": "",
-  "advisorycontent": "请在更新前注意备份数据。",
+  "advisorycontent": "
+  本包默认不带kernel su，若需要kernel su，请到下载站内找到机型文件夹并在那里面寻找对应版本的Boot。  \n
+  \n
+  下载站请到 [这里](https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/zh-CN/Sudoerz's%20Mod/)
+  ",
   "isdownloadfile": "1",
   "postlink":"",
   "historychglog":"https://sudoerzblog.pages.dev/historychangelog/aosp/cmi/13/HistoryChanges",
