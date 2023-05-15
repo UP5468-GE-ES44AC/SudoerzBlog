@@ -1,31 +1,23 @@
 {
-  "datetime": 1681358744,
-  "filename": "SudoerzMod_cmi_v17.1-Release-TQ2A.230305.008.C1-20230413041534.zip",
-  "filehash": "fc47b539e88ccf0343a802944b8028b9",
-  "id": "44a686bc79709598ea98c32cf3ddd6442e42ab8f",
-  "size": "2567258102", 
+  "datetime": 1683602691,
+  "filename": "SudoerzMod_cmi_v17.2-Release-TQ2A.230405.003.E1-20230509033419.zip",
+  "filehash": "75beb5e792c5cc842ff4e3490a2ce752",
+  "id": "4120601a127cf260aa15ef2cf2322e05cafd6bfb",
+  "size": "2568001120", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
   "whatsNew": "
 ### 本次更新内容： \n
 
-* <font color=\"ff32cd32\">修复OS激活服务的试用时间在系统日期发生变更时走时过快的问题</font> \n
-* 新增数据卡切换磁贴  \n
-* 隐私指示器已屏蔽部分系统应用  \n
-* 新增VPN 热点 \n
-* 新增隐藏手势栏 \n
-* 新增NFC磁贴 \n
-* 新增颜色调整（于 系统设置-显示-颜色 下） \n
-* DC调光服务（仅针对Mi10的华星屏设备） \n
-* 尝试性修复更新器创建临时文件被SeLinux拦截的问题 \n
-* 其他若干修复 \n
+* <font color=\"ff32cd32\">4月安全补丁</font> \n
+* 新增关于手机页面的banner自定义图片功能  \n
 \n
 > [v13.0.6.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/cmi/stable/V13.0.6.0.SJACNXM/) \n
 ",
   "donationbitmap": "",
-  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/cmi/SudoerzMod_cmi_v17.1-Release-TQ2A.230305.008.C1-20230413041534.zip",
+  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/cmi/SudoerzMod_cmi_v17.2-Release-TQ2A.230405.003.E1-20230509033419.zip",
   "version": "13",
-  "incremental": "eng.sudoer.20230402.055913",
+  "incremental": "eng.sudoer.20230413.121534",
   "extdownlink": "",
   "advisorycontent": "
   本包默认不带kernel su，若需要kernel su，请到下载站内找到机型文件夹并在那里面寻找对应版本的Boot。  \n
