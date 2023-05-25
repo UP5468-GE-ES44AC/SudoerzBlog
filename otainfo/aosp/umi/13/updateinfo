@@ -1,23 +1,28 @@
 {
-  "datetime": 1683549717,
-  "filename": "SudoerzMod_umi_v17.2-Release-TQ2A.230405.003.E1-20230508223836.zip",
-  "filehash": "7d2a06478a25596b6d6851eefc31d2e9",
-  "id": "abbbe11f4a399734b120ea1c4570072404627281",
-  "size": "2589513239", 
+  "datetime": 1684606886,
+  "filename": "SudoerzMod_umi_v17.4-Release-TQ2A.230405.003.E1-20230520182238.zip",
+  "filehash": "f122d9d0ce7e315607e5e8baa595dfd0",
+  "id": "da8b3901f3ceeccd171fe931f93881b5fe295bea",
+  "size": "2620599434", 
   "maintainer":"$Sudoerz",
   "maintainer_url": "http://www.coolapk.com/u/838917",
   "whatsNew": "
 ### 本次更新内容： \n
-
-* <font color=\"ff32cd32\">4月安全补丁</font> \n
-* 新增关于手机页面的banner自定义图片功能  \n
 \n
-> [v13.0.7.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable%20beta/V13.0.7.0.SJBCNXM/) \n
+* 更新设备底包至14.0.3.0 \n
+* 新增 人脸解锁 \n
+* 新增 状态栏歌词 \n
+* 新增 口袋模式 \n
+* 新增 刘海模式调节（系统设置>显示>屏幕刘海设置） \n
+\n
+<font color=\"ffb23724\">注意：本版本对运营商配置有所更改，目前已支持VONR。如有在SA下注册IMS失败者，请尝试在SIM卡页面中重新开关VO5G以及5G网络模式页面中的VONR开关。</font> \n
+\n
+> [v14.0.3.0底包下载戳这里](https://xiaomifirmwareupdater.com/miui/umi/stable%20beta/V14.0.3.0.TJBCNXM/) \n
 ",
   "donationbitmap": "",
-  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/umi/SudoerzMod_umi_v17.2-Release-TQ2A.230405.003.E1-20230508223836.zip",
+  "url": "https://onedrive-vercel-index-d5so622ok-up5468-ge-es44ac.vercel.app/api/raw/?path=/Sudoerz's%20Mod/umi/SudoerzMod_umi_v17.4-Release-TQ2A.230405.003.E1-20230520182238.zip",
   "version": "13",
-  "incremental": "eng.sudoer.20230413.015216",
+  "incremental": "eng.sudoer.20230521.022238",
   "extdownlink": "",
   "advisorycontent": "
   本包默认不带kernel su，若需要kernel su，请到下载站内找到机型文件夹并在那里面寻找对应版本的Boot。  \n
